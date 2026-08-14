@@ -1,0 +1,25 @@
+# This GitHub is a public showcase only.
+# Model weights, source, and training stay off the remote.
+
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/results/
+!/results/Comparisons/
+!/results/Comparisons/**
+
+results/source/
+**/*.pth
+**/*.pt
+**/*.onnx
+**/*.enc
+**/*.safetensors
+checkpoints/
+src/
+training/
+models/
+dataset/
+.venv/
+dist/
+build/
